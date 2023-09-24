@@ -1,0 +1,16 @@
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.exe
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.deps.json
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.runtimeconfig.json
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.runtimeconfig.dev.json
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.dll
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\ref\Pizzaria.dll
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\bin\Debug\net5.0\Pizzaria.pdb
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.AssemblyInfo.cs
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.dll
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\ref\Pizzaria.dll
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.pdb
+C:\Users\gabriel.quintanilha\OneDrive - Sistran\Área de Trabalho\Projeto Pizzaria\Pizzaria\obj\Debug\net5.0\Pizzaria.genruntimeconfig.cache
